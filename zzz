@@ -1,6 +1,6 @@
 -- sharkbite2
 
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/teqae/orionn/refs/heads/main/littt')))()
 local Window = OrionLib:MakeWindow({Name = "Sharkbite2", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 local Tab = Window:MakeTab({
 	Name = "player setting",
